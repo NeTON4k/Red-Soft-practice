@@ -21,6 +21,8 @@
      ├── lynis/
      ├── openscap/
      └── searchsploit/
+
+```
      
 ### report/
 
@@ -39,8 +41,6 @@
 - OpenSCAP
 - Responder
 - Searchsploit
-
-
 
 ## Результаты
 

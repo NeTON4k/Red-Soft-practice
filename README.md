@@ -13,8 +13,14 @@
 ├── report/                — черновик и финальная версия отчёта
 │   ├── report.md
 │   └── screenshots/       — скриншоты, иллюстрации к отчёту
-└── scan-results/           — сырые выводы сканеров и утилит (логи)
-```
+└──  scan-results/
+   ├── nmap/
+   ├── nikto/
+   ├── hydra/
+   ├── responder/
+   ├── lynis/
+   ├── openscap/
+   └── searchsploit/
 
 ## Журнал работ
 

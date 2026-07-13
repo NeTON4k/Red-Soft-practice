@@ -9,11 +9,10 @@
 
 ```
 .
-├── README.md              — этот файл
-├── report/                — черновик и финальная версия отчёта
+├── README.md           
+├── report/                
 │   ├── report.md
-│   └── screenshots/       — скриншоты, иллюстрации к отчёту
-└──  scan-results/
+│   └── screenshots/      
      ├── nmap/
      ├── nikto/
      ├── hydra/

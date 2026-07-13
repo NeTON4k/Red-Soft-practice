@@ -12,7 +12,8 @@
 ├── README.md           
 ├── report/                
 │   ├── report.md
-│   └── screenshots/      
+│   └── screenshots/ 
+└──scan-results  
      ├── nmap/
      ├── nikto/
      ├── hydra/
